@@ -10,7 +10,8 @@ Mobile uygulama geliştirme aşaması için başlangıç düzeyde noteapp Yapıl
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 
 
-# noteapp![Ekran Görüntüsü (11)](https://github.com/emirs01/noteapp/assets/96836172/f68d755a-20f9-422d-98a1-0436fb2e384f)
+# noteapp!
+[Ekran Görüntüsü (11)](https://github.com/emirs01/noteapp/assets/96836172/f68d755a-20f9-422d-98a1-0436fb2e384f)
 ![Ekran Görüntüsü (12)](https://github.com/emirs01/noteapp/assets/96836172/142a149e-9306-4fab-9e94-42971c8a9743)
 ![Ekran Görüntüsü (13)](https://github.com/emirs01/noteapp/assets/96836172/335a4330-821b-43cd-b963-ee3ccb62a570)
 
