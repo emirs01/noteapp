@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "noteapp",
+    "slug": "noteapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.emirs.noteapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "black"
+      },
+      "package": "com.emirs.noteapp"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a1989026-0b3a-4ef1-a4e2-d4f49cc63ab9"
+      }
+    }
+  }
+}
